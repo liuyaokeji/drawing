@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T03:24:37.745Z" agent="5.0 (Windows)" etag="OgTz8dkOGZwVZ9lJC67S" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T03:25:13.489Z" agent="5.0 (Windows)" etag="LcCzOxwaD3jyHR_COd0D" version="20.8.16" type="github">
   <diagram id="e7usdUpXo5iLbDfutmgl" name="第 1 页">
     <mxGraphModel dx="2014" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,6 +148,9 @@
         <mxCell id="LtfJeAL9DBpkxnp7Dvny-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="ASMzy9aAmaaJTqnwQeLn-1" target="ASMzy9aAmaaJTqnwQeLn-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LtfJeAL9DBpkxnp7Dvny-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="ASMzy9aAmaaJTqnwQeLn-1" target="LtfJeAL9DBpkxnp7Dvny-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ASMzy9aAmaaJTqnwQeLn-1" value="bin log(归档日志)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;glass=0;strokeColor=#6c8ebf;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="310" y="480" width="200" height="60" as="geometry" />
         </mxCell>
@@ -244,7 +247,7 @@
           <mxGeometry x="715" y="-125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtfJeAL9DBpkxnp7Dvny-27" value="功能" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;glass=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="725" y="482.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtfJeAL9DBpkxnp7Dvny-29" value="参数控制" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="150" width="120" height="60" as="geometry" />
@@ -267,6 +270,9 @@
         </mxCell>
         <mxCell id="LtfJeAL9DBpkxnp7Dvny-44" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;两者的区别与联系&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="390" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtfJeAL9DBpkxnp7Dvny-45" value="功能" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;glass=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
