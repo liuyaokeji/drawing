@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T04:28:41.381Z" agent="5.0 (Windows)" etag="hzWl2F3rEh1t1gyGsaa0" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T04:29:56.072Z" agent="5.0 (Windows)" etag="VCthL0kHdScNDrN08w8F" version="20.8.16" type="github">
   <diagram id="e7usdUpXo5iLbDfutmgl" name="第 1 页">
     <mxGraphModel dx="2676" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -351,9 +351,6 @@
         </mxCell>
         <mxCell id="LtfJeAL9DBpkxnp7Dvny-82" value="redolog分两阶段" style="whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#dae8fc;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-740" y="-10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LtfJeAL9DBpkxnp7Dvny-83" value="以binlog为标识" style="whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="-970" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtfJeAL9DBpkxnp7Dvny-84" value="中间XID写入binglog" style="whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#dae8fc;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-940" y="-10" width="120" height="60" as="geometry" />
