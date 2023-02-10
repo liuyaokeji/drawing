@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T03:50:23.662Z" agent="5.0 (Windows)" version="20.8.16" etag="-nV5ZVfDEI1Nrj5CJgWU" type="github"><diagram name="第 1 页" id="kGDxpLzvIWw054wfI4Jg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-10T04:42:15.819Z" agent="5.0 (Windows)" etag="2nbNk0yHlhXENciI84eb" version="20.8.16" type="github">
+  <diagram name="第 1 页" id="kGDxpLzvIWw054wfI4Jg">
+    <mxGraphModel dx="803" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flMOlkIk6QKhAS_l9XvN-1" target="flMOlkIk6QKhAS_l9XvN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flMOlkIk6QKhAS_l9XvN-1" target="flMOlkIk6QKhAS_l9XvN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-1" value="IO" style="whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flMOlkIk6QKhAS_l9XvN-3" target="flMOlkIk6QKhAS_l9XvN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flMOlkIk6QKhAS_l9XvN-3" target="flMOlkIk6QKhAS_l9XvN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flMOlkIk6QKhAS_l9XvN-3" target="flMOlkIk6QKhAS_l9XvN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-3" value="零拷贝" style="whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-5" value="为什么有DMA技术" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-7" value="传统I/O存在的问题" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flMOlkIk6QKhAS_l9XvN-9" target="flMOlkIk6QKhAS_l9XvN-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="220" />
+              <mxPoint x="620" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flMOlkIk6QKhAS_l9XvN-9" target="flMOlkIk6QKhAS_l9XvN-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="220" />
+              <mxPoint x="620" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-9" value="实现零拷贝" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-13" value="mmap+write" style="whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="660" y="90" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-15" value="sendfile" style="whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flMOlkIk6QKhAS_l9XvN-16" target="flMOlkIk6QKhAS_l9XvN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-16" value="BIO/NIO/IO多路复用/AIO" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="205" y="480" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flMOlkIk6QKhAS_l9XvN-18" target="flMOlkIk6QKhAS_l9XvN-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flMOlkIk6QKhAS_l9XvN-18" target="flMOlkIk6QKhAS_l9XvN-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="510" />
+              <mxPoint x="680" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-18" value="IO多路复用" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-22" value="select/poll" style="whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="730" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flMOlkIk6QKhAS_l9XvN-24" value="epoll" style="whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="730" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
